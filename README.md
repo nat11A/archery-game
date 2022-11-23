@@ -1,1 +1,1 @@
-# archery-game
+# Plantilla del proyecto 26
